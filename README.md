@@ -7,10 +7,15 @@ daha detaylı bilgi için [Tasarım](https://github.com/mlkvr/ECommerceProjesi/t
 ## Geliştirme süreci 
   
    - [X] Tasarım
+      - [X] index.php
+      - sepet.php
+      - hesap.php
    - [ ] Front-end
+      - [?] index.php
    - [ ] Back-end
    - [ ] Test
 
+[Dropdown menüler için güzel bir kod](https://codepen.io/twodogstar/pen/FwedC)
   
   [Aktif geliştirme görevleri için tıklayın](https://trello.com/b/zV37BO71/e-commerce)
 
