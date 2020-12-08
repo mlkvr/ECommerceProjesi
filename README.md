@@ -7,7 +7,11 @@ daha detaylı bilgi için [Tasarım](https://github.com/mlkvr/ECommerceProjesi/t
 ## Geliştirme süreci 
   
    - [X] Tasarım
+      - [X] index.php
+      - sepet.php
+      - hesap.php
    - [ ] Front-end
+      - [?] index.php
    - [ ] Back-end
    - [ ] Test
 
