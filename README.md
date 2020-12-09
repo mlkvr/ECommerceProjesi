@@ -8,10 +8,12 @@ daha detaylı bilgi için [Tasarım](https://github.com/mlkvr/ECommerceProjesi/t
   
    - [X] Tasarım
       - [X] index.php
+      - [X] sepet.php
+      - [X] hesap.php
+   - [ ] Front-end
+      - [X] index.php
       - sepet.php
       - hesap.php
-   - [ ] Front-end
-      - [?] index.php
    - [ ] Back-end
    - [ ] Test
 
